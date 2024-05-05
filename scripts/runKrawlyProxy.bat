@@ -1,0 +1,1 @@
+java -Dserver.port=8090 -jar krawly-proxy-1.0-SNAPSHOT.jar
